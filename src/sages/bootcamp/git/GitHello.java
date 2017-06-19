@@ -5,6 +5,6 @@ package sages.bootcamp.git;
  */
 public class GitHello {
     public void gitHello(){
-        System.out.println("Hello GIT!");
+        System.out.println("Hello GIT!\nHow are you?");
     }
 }
