@@ -10,5 +10,11 @@ public class GitHello {
         System.out.println("Something awesome!");
         System.out.println("More awesome stuff!");
         System.out.println("Even more awesome stuff!!!!");
+        System.out.println("3rd NEWLINE");
+        System.out.println("4th line");
+        System.out.println("5th line");
+        System.out.println("6th line");
+        System.out.println("7th line");
+        System.out.println("8th line");
     }
 }
