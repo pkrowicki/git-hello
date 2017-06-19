@@ -9,5 +9,6 @@ public class GitHello {
         System.out.println("NEWLINE!");
         System.out.println("3rd NEWLINE");
         System.out.println("4th line");
+        System.out.println("5th line");
     }
 }
