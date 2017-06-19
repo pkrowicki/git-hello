@@ -9,5 +9,6 @@ public class GitHello {
         System.out.println("NEWLINE!");
         System.out.println("Something awesome!");
         System.out.println("More awesome stuff!");
+        System.out.println("Even more awesome stuff!!!!");
     }
 }
