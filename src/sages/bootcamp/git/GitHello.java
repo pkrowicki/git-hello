@@ -8,5 +8,6 @@ public class GitHello {
         System.out.println("Hello GIT!\nHow are you?");
         System.out.println("NEWLINE!");
         System.out.println("Something awesome!");
+        System.out.println("More awesome stuff!");
     }
 }
